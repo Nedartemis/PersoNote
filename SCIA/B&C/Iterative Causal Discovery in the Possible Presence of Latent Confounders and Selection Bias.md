@@ -41,4 +41,7 @@ is a Markov equivalence class of MAGs—a set of MAGs that cannot be ruled out g
 
 FCI, FCI+, RFCI, GFCI 
 
+#### Variable latente
+
+Une variable latente est une **variable qui ne peut pas être mesurée directement, mais qui est déduite à partir d'autres variables observées**.
 
