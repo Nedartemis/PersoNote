@@ -12,8 +12,5 @@ Pour le projet : Dataframe ou RDD
 
 Job spark : source, applique une série de transformations, destination finale
 
-Micro batch : spécialisation de template en C++
+Micro batch
 
-```python
-toto
-```

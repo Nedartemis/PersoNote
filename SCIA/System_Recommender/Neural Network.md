@@ -32,12 +32,3 @@ Item --> k dim
 2. 
 produit vectoriel --> probabilité de recommendation
 3. 
-
-
-SGD : nul à chier
-Adam : dev 0.8763 - test ?
-AdamW : dev 0.8812 - test 0.8921
-AdaDelta : nul à chier
-Adagrad : nul à chier
-Adamax : dev  0.8872 - test 0.8830
-Adafactor : se fait strike si patience en dessous de 15
