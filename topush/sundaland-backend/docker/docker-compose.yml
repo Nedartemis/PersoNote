@@ -1,0 +1,16 @@
+services:
+
+  mongo:
+    image: mongo
+    container_name: sundaland_mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+      MONGO_INITDB_DATABASE: Sundaland
+    volumes:
+      - ./init_mongo.js:/docker-entrypoint-initdb.d/init.js:ro
+    ports:
+      - 27017:27017
+    expose:
+      - "27017"
