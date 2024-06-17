@@ -1,1 +1,0 @@
-ps --no-headers -o comm 1

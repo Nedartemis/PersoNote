@@ -1,2 +1,0 @@
-
-SUNDALAND_MONGODB_USER MongoDB user username SUNDALAND_MONGODB_PASSWORD MongoDB user password SUNDALAND_MONGODB_HOST MongoDB server host SUNDALAND_MONGODB_DATABASE MongoDB database name SUNDALAND_ADMIN_TOKEN Sundaland admin token
